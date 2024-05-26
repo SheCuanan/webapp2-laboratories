@@ -1,7 +1,7 @@
 <?php
 
 $host = 'localhost'; // your localhost name
-$db = 'connection'; // your database name
+$db = 'webapp2-db'; // your database name
 $user = 'root'; // your mysql user
 $password = ''; // your mysql password
 
